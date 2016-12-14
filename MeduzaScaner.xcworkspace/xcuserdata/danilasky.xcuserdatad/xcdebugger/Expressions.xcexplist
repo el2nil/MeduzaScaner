@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "static NewsCD.getNewsCD(forNews : News) -&gt; NewsCD?:NewsCD.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result.title">
+            </PersistentString>
+            <PersistentString
+               value = "result.content">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewsTableViewController.(updateNews(UIRefreshControl) -&gt; ()).(closure #1):NewsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender.state">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewsViewController.(updateUI() -&gt; ()).(closure #1):NewsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "news?.content">
+            </PersistentString>
+            <PersistentString
+               value = "newsCD.content">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewsViewController.(updateUI() -&gt; ()).(closure #1).(closure #1):NewsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "newsURL">
+            </PersistentString>
+            <PersistentString
+               value = "news?.published?.description">
+            </PersistentString>
+            <PersistentString
+               value = "formatter.string(from: published)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static MeduzaAPI.(getNewsList(withChrono : ChronoKeys, newsCount : Int, complitionHandler : (NewsPreviewList?, Error?) -&gt; ()) -&gt; ()).(closure #1):MeduzaAPI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "newsList.documents">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static NewsPreviewCD.updateDataBase(withNewsPreviewList : [NewsPreview]) -&gt; ():NewsPreviewCD.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NewsTableViewController.updateNews(Any) -&gt; ():NewsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender is UIRefreshControl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewsTableViewCell.updateUI() -&gt; ():NewsTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "createdLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static MeduzaAPI.getNewsList(withChrono : ChronoKeys, newsCount : Int, complitionHandler : (MeduzaAPI.NewsList?, Error?) -&gt; ()) -&gt; ():MeduzaAPI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewsTableViewController.(viewDidLoad() -&gt; ()).(closure #1):NewsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "newsList?.documents?[newsURL]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewsTableViewController.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:NewsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "newsList[indexPath.row].title">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewsTableViewController.updateNews(UIRefreshControl) -&gt; ():NewsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender.state">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
